@@ -1,0 +1,9 @@
+# Dependecias
+node_modules
+# database
+temp/*.sqlite
+# env
+.env
+.env.test
+# Build
+build
