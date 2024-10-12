@@ -2,6 +2,7 @@
   "name": "api-restful-typscript",
   "version": "1.0.0",
   "main": "index.js",
+  "node": ">= 18",
   "scripts": {
     "test": "vitest",
     "dev": "tsx watch src/server.ts",
