@@ -17,7 +17,7 @@ Este projeto foi iniciado para aprimorar minhas habilidades e prática no desenv
 
 1. **CRUD completo** para manipulação de dados.
 2. Integração com banco de dados PostgreSQL e SQLite.
-3. **Testes E2E** com Vitest para garantir a qualidade do código.
+3. **Testes Unitários** com Vitest para garantir a qualidade do código.
 
 ## 📦 Como executar o projeto
 
